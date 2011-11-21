@@ -1,3 +1,5 @@
-http://www.captechnix.com/hop/core/core.html 3 S
-http://www.captechnix.com/hop/core/core.html 3 S
-http://www.captechnix.com/hop/core/core.html 3 Shttp://www.captechnix.com/hop/core/core.html 3 S
+ file 'description' to name the repository
+
+edit this file 'description' to name the repository
+
+edit this file 'description' to name the repository
